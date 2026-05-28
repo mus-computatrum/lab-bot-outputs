@@ -1,0 +1,24 @@
+# Never push datasets or huge intermediate artefacts.
+*.h5ad
+*.h5
+*.csv.gz
+*.tsv.gz
+*.parquet
+*.feather
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+*.zarr/
+data/
+datasets/
+
+# Editor / OS junk
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Workspace internals the bot copies as files instead
+_snippet.py
+_snippet.sh
