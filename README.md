@@ -10,8 +10,11 @@ datasets used, and what was produced.
 > the sandbox at `/data/<id>`. See the dataset registry for the catalog.
 
 ## Latest run
-_(auto-updated after each push.)_
+
+**[`2026-05-28_210602_8f45de3b36a6`](runs/2026-05-28_210602_8f45de3b36a6/)** — code — 2026-05-28 21:06:02 UTC — Smoke: make a tiny scaling plot from the toy data; save a figure, the code, and a one-lin…
+
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-05-28 21:06:02 | [`2026-05-28_210602_8f45de3b36a6`](runs/2026-05-28_210602_8f45de3b36a6/) | code | Smoke: make a tiny scaling plot from the toy data; save a figure, the code, and a one-lin… |
