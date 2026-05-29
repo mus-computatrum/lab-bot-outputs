@@ -18,4 +18,3 @@ datasets used, and what was produced.
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
 | 2026-05-29 11:54:31 | [`2026-05-29_115431_3d55d7fdae1f`](runs/2026-05-29_115431_3d55d7fdae1f/) | code | Visualize the proportions of different cell-types in VISp vs. ALM using bar plots. |
-| 2026-05-28 21:06:02 | [`2026-05-28_210602_8f45de3b36a6`](runs/2026-05-28_210602_8f45de3b36a6/) | code | Smoke: make a tiny scaling plot from the toy data; save a figure, the code, and a one-lin… |
