@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-05-29 11:54:31",
+    "folder": "2026-05-29_115431_3d55d7fdae1f",
+    "mode": "code",
+    "request_short": "Visualize the proportions of different cell-types in VISp vs. ALM using bar plots.",
+    "n_files": 3,
+    "bytes": 320972
+  },
+  {
     "when": "2026-05-28 21:06:02",
     "folder": "2026-05-28_210602_8f45de3b36a6",
     "mode": "code",
