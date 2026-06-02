@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-02 15:12:20",
+    "folder": "2026-06-02_151220_34d52be273e7",
+    "mode": "code",
+    "request_short": "[recovered] Zhuang whole-brain spatial-gradient analysis (May 29). Original /code job hit\u2026",
+    "n_files": 9,
+    "bytes": 1211116
+  },
+  {
     "when": "2026-05-29 11:54:31",
     "folder": "2026-05-29_115431_3d55d7fdae1f",
     "mode": "code",
