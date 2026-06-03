@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-03 17:52:30",
+    "folder": "2026-06-03_175230_7cc5bc8549f4",
+    "mode": "download",
+    "request_short": "[bench:download-marmoset-atlas] Find and register a marmoset cortical cell-type single-ce\u2026",
+    "n_files": 21,
+    "bytes": 29780
+  },
+  {
     "when": "2026-06-03 17:51:55",
     "folder": "2026-06-03_175155_51374c5ec197",
     "mode": "search-lit",
