@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-03 17:45:59",
+    "folder": "2026-06-03_174559_5070c8befa36",
+    "mode": "research",
+    "request_short": "[bench:research-hard-sst-v1-vs-alm-markers] Using the Tasic 2018 dataset (both V1/VISp an\u2026",
+    "n_files": 19,
+    "bytes": 303566
+  },
+  {
     "when": "2026-06-03 17:43:55",
     "folder": "2026-06-03_174355_0daf4873aebf",
     "mode": "search-lit",
