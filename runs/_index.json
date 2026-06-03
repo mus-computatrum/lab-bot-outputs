@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-03 17:43:55",
+    "folder": "2026-06-03_174355_0daf4873aebf",
+    "mode": "search-lit",
+    "request_short": "[bench:searchlit-easy-sst-v1-papers] Find 3-5 papers from 2023 or later on SST (somatosta\u2026",
+    "n_files": 1,
+    "bytes": 427
+  },
+  {
     "when": "2026-06-03 17:41:04",
     "folder": "2026-06-03_174104_4646c920eb94",
     "mode": "research",

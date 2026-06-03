@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-03_174104_4646c920eb94`](runs/2026-06-03_174104_4646c920eb94/)** — research — 2026-06-03 17:41:04 UTC — [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' …
+**[`2026-06-03_174355_0daf4873aebf`](runs/2026-06-03_174355_0daf4873aebf/)** — search-lit — 2026-06-03 17:43:55 UTC — [bench:searchlit-easy-sst-v1-papers] Find 3-5 papers from 2023 or later on SST (somatosta…
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-03 17:43:55 | [`2026-06-03_174355_0daf4873aebf`](runs/2026-06-03_174355_0daf4873aebf/) | search-lit | [bench:searchlit-easy-sst-v1-papers] Find 3-5 papers from 2023 or later on SST (somatosta… |
 | 2026-06-03 17:41:04 | [`2026-06-03_174104_4646c920eb94`](runs/2026-06-03_174104_4646c920eb94/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
 | 2026-06-02 15:12:20 | [`2026-06-02_151220_34d52be273e7`](runs/2026-06-02_151220_34d52be273e7/) | code | [recovered] Zhuang whole-brain spatial-gradient analysis (May 29). Original /code job hit… |
 | 2026-05-29 11:54:31 | [`2026-05-29_115431_3d55d7fdae1f`](runs/2026-05-29_115431_3d55d7fdae1f/) | code | Visualize the proportions of different cell-types in VISp vs. ALM using bar plots. |
