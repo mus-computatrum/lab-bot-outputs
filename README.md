@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-03_174559_5070c8befa36`](runs/2026-06-03_174559_5070c8befa36/)** — research — 2026-06-03 17:45:59 UTC — [bench:research-hard-sst-v1-vs-alm-markers] Using the Tasic 2018 dataset (both V1/VISp an…
+**[`2026-06-03_175155_51374c5ec197`](runs/2026-06-03_175155_51374c5ec197/)** — search-lit — 2026-06-03 17:51:55 UTC — [bench:searchlit-hard-crossspecies-neuromod-sst] Synthesize what's currently known about …
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-03 17:51:55 | [`2026-06-03_175155_51374c5ec197`](runs/2026-06-03_175155_51374c5ec197/) | search-lit | [bench:searchlit-hard-crossspecies-neuromod-sst] Synthesize what's currently known about … |
 | 2026-06-03 17:45:59 | [`2026-06-03_174559_5070c8befa36`](runs/2026-06-03_174559_5070c8befa36/) | research | [bench:research-hard-sst-v1-vs-alm-markers] Using the Tasic 2018 dataset (both V1/VISp an… |
 | 2026-06-03 17:43:55 | [`2026-06-03_174355_0daf4873aebf`](runs/2026-06-03_174355_0daf4873aebf/) | search-lit | [bench:searchlit-easy-sst-v1-papers] Find 3-5 papers from 2023 or later on SST (somatosta… |
 | 2026-06-03 17:41:04 | [`2026-06-03_174104_4646c920eb94`](runs/2026-06-03_174104_4646c920eb94/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |

@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-03 17:51:55",
+    "folder": "2026-06-03_175155_51374c5ec197",
+    "mode": "search-lit",
+    "request_short": "[bench:searchlit-hard-crossspecies-neuromod-sst] Synthesize what's currently known about \u2026",
+    "n_files": 1,
+    "bytes": 17458
+  },
+  {
     "when": "2026-06-03 17:45:59",
     "folder": "2026-06-03_174559_5070c8befa36",
     "mode": "research",
