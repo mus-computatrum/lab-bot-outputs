@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-03 17:41:04",
+    "folder": "2026-06-03_174104_4646c920eb94",
+    "mode": "research",
+    "request_short": "[bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' \u2026",
+    "n_files": 10,
+    "bytes": 176387
+  },
+  {
     "when": "2026-06-02 15:12:20",
     "folder": "2026-06-02_151220_34d52be273e7",
     "mode": "code",
