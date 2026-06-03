@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-03 17:56:10",
+    "folder": "2026-06-03_175610_8d5613d02d08",
+    "mode": "research",
+    "request_short": "[bench:research-marmoset-mouse-chrm-comparison] Using tasic2018-v1 (mouse V1) and marmose\u2026",
+    "n_files": 17,
+    "bytes": 120875
+  },
+  {
     "when": "2026-06-03 17:52:30",
     "folder": "2026-06-03_175230_7cc5bc8549f4",
     "mode": "download",
