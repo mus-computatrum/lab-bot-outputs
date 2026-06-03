@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-03_175610_8d5613d02d08`](runs/2026-06-03_175610_8d5613d02d08/)** — research — 2026-06-03 17:56:10 UTC — [bench:research-marmoset-mouse-chrm-comparison] Using tasic2018-v1 (mouse V1) and marmose…
+**[`2026-06-03_180521_843bfb5e610e`](runs/2026-06-03_180521_843bfb5e610e/)** — search-lit — 2026-06-03 18:05:21 UTC — [bench:searchlit-easy-sst-v1-papers] Find 3-5 papers from 2023 or later on SST (somatosta…
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-03 18:05:21 | [`2026-06-03_180521_843bfb5e610e`](runs/2026-06-03_180521_843bfb5e610e/) | search-lit | [bench:searchlit-easy-sst-v1-papers] Find 3-5 papers from 2023 or later on SST (somatosta… |
 | 2026-06-03 17:56:10 | [`2026-06-03_175610_8d5613d02d08`](runs/2026-06-03_175610_8d5613d02d08/) | research | [bench:research-marmoset-mouse-chrm-comparison] Using tasic2018-v1 (mouse V1) and marmose… |
 | 2026-06-03 17:52:30 | [`2026-06-03_175230_7cc5bc8549f4`](runs/2026-06-03_175230_7cc5bc8549f4/) | download | [bench:download-marmoset-atlas] Find and register a marmoset cortical cell-type single-ce… |
 | 2026-06-03 17:51:55 | [`2026-06-03_175155_51374c5ec197`](runs/2026-06-03_175155_51374c5ec197/) | search-lit | [bench:searchlit-hard-crossspecies-neuromod-sst] Synthesize what's currently known about … |
