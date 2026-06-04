@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-04 04:19:32",
+    "folder": "2026-06-04_041932_60ec242e0ff5",
+    "mode": "research",
+    "request_short": "[bench:research-bugeon-state-modulation] Using the Bugeon 2022 dataset at /data/bugeon202\u2026",
+    "n_files": 11,
+    "bytes": 127901
+  },
+  {
     "when": "2026-06-03 18:05:21",
     "folder": "2026-06-03_180521_843bfb5e610e",
     "mode": "search-lit",

@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-03_180521_843bfb5e610e`](runs/2026-06-03_180521_843bfb5e610e/)** — search-lit — 2026-06-03 18:05:21 UTC — [bench:searchlit-easy-sst-v1-papers] Find 3-5 papers from 2023 or later on SST (somatosta…
+**[`2026-06-04_041932_60ec242e0ff5`](runs/2026-06-04_041932_60ec242e0ff5/)** — research — 2026-06-04 04:19:32 UTC — [bench:research-bugeon-state-modulation] Using the Bugeon 2022 dataset at /data/bugeon202…
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-04 04:19:32 | [`2026-06-04_041932_60ec242e0ff5`](runs/2026-06-04_041932_60ec242e0ff5/) | research | [bench:research-bugeon-state-modulation] Using the Bugeon 2022 dataset at /data/bugeon202… |
 | 2026-06-03 18:05:21 | [`2026-06-03_180521_843bfb5e610e`](runs/2026-06-03_180521_843bfb5e610e/) | search-lit | [bench:searchlit-easy-sst-v1-papers] Find 3-5 papers from 2023 or later on SST (somatosta… |
 | 2026-06-03 17:56:10 | [`2026-06-03_175610_8d5613d02d08`](runs/2026-06-03_175610_8d5613d02d08/) | research | [bench:research-marmoset-mouse-chrm-comparison] Using tasic2018-v1 (mouse V1) and marmose… |
 | 2026-06-03 17:52:30 | [`2026-06-03_175230_7cc5bc8549f4`](runs/2026-06-03_175230_7cc5bc8549f4/) | download | [bench:download-marmoset-atlas] Find and register a marmoset cortical cell-type single-ce… |
