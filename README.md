@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-04_143356_baf0fd8091d4`](runs/2026-06-04_143356_baf0fd8091d4/)** — research — 2026-06-04 14:33:56 UTC — [bench:research-vizgen-spatial-marker-genes] Using Vizgen MERFISH Slice 3 Replicate 1 at …
+**[`2026-06-04_145819_9141f09a2aa9`](runs/2026-06-04_145819_9141f09a2aa9/)** — research — 2026-06-04 14:58:19 UTC — [bench:research-yao-isocortex-sst-supertypes] Using Yao 2023 WMB-10X (Isocortex subset) a…
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-04 14:58:19 | [`2026-06-04_145819_9141f09a2aa9`](runs/2026-06-04_145819_9141f09a2aa9/) | research | [bench:research-yao-isocortex-sst-supertypes] Using Yao 2023 WMB-10X (Isocortex subset) a… |
 | 2026-06-04 14:33:56 | [`2026-06-04_143356_baf0fd8091d4`](runs/2026-06-04_143356_baf0fd8091d4/) | research | [bench:research-vizgen-spatial-marker-genes] Using Vizgen MERFISH Slice 3 Replicate 1 at … |
 | 2026-06-04 14:23:47 | [`2026-06-04_142347_a202b9843468`](runs/2026-06-04_142347_a202b9843468/) | research | [bench:research-vizgen-spatial-marker-genes] Using Vizgen MERFISH Slice 3 Replicate 1 at … |
 | 2026-06-04 05:02:22 | [`2026-06-04_050222_fe5aaa25b470`](runs/2026-06-04_050222_fe5aaa25b470/) | research | [bench:research-microns-coreg-functional-em] Using the MICrONS functional NWB at /data/mi… |

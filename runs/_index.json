@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-04 14:58:19",
+    "folder": "2026-06-04_145819_9141f09a2aa9",
+    "mode": "research",
+    "request_short": "[bench:research-yao-isocortex-sst-supertypes] Using Yao 2023 WMB-10X (Isocortex subset) a\u2026",
+    "n_files": 37,
+    "bytes": 15376
+  },
+  {
     "when": "2026-06-04 14:33:56",
     "folder": "2026-06-04_143356_baf0fd8091d4",
     "mode": "research",
