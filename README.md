@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-04_045905_a537f0f3fe15`](runs/2026-06-04_045905_a537f0f3fe15/)** — research — 2026-06-04 04:59:05 UTC — [bench:research-abo-v1-sst-osi] Using the Allen Brain Observatory (Visual Coding 2P) cach…
+**[`2026-06-04_050222_fe5aaa25b470`](runs/2026-06-04_050222_fe5aaa25b470/)** — research — 2026-06-04 05:02:22 UTC — [bench:research-microns-coreg-functional-em] Using the MICrONS functional NWB at /data/mi…
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-04 05:02:22 | [`2026-06-04_050222_fe5aaa25b470`](runs/2026-06-04_050222_fe5aaa25b470/) | research | [bench:research-microns-coreg-functional-em] Using the MICrONS functional NWB at /data/mi… |
 | 2026-06-04 04:59:05 | [`2026-06-04_045905_a537f0f3fe15`](runs/2026-06-04_045905_a537f0f3fe15/) | research | [bench:research-abo-v1-sst-osi] Using the Allen Brain Observatory (Visual Coding 2P) cach… |
 | 2026-06-04 04:52:35 | [`2026-06-04_045235_1ce83531a693`](runs/2026-06-04_045235_1ce83531a693/) | research | [bench:research-yao-isocortex-sst-supertypes] Using Yao 2023 WMB-10X (Isocortex subset) a… |
 | 2026-06-04 04:52:12 | [`2026-06-04_045212_79a2487bf55e`](runs/2026-06-04_045212_79a2487bf55e/) | research | [bench:research-v1dd-connectivity-top-cells] Using the v1dd connectivity extension at /da… |

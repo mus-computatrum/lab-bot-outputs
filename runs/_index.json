@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-04 05:02:22",
+    "folder": "2026-06-04_050222_fe5aaa25b470",
+    "mode": "research",
+    "request_short": "[bench:research-microns-coreg-functional-em] Using the MICrONS functional NWB at /data/mi\u2026",
+    "n_files": 23,
+    "bytes": 35020
+  },
+  {
     "when": "2026-06-04 04:59:05",
     "folder": "2026-06-04_045905_a537f0f3fe15",
     "mode": "research",
