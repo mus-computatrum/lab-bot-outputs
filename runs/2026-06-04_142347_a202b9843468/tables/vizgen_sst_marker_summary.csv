@@ -1,0 +1,5 @@
+gene,n_transcripts,mean_x,mean_y,std_x,std_y,note
+Calb2,0,,,,,NOT IN PANEL — receptor-map dataset; suggested proxy: Sstr2 (SST receptor 2 — proxy for Calb2+ SST cells)
+Crh,0,,,,,NOT IN PANEL — receptor-map dataset; suggested proxy: Crhr1 (CRH receptor 1 — cognate receptor for Crh)
+Nos1,0,,,,,NOT IN PANEL — receptor-map dataset; suggested proxy: Sstr1 (SST receptor 1 — proxy for Nos1/Chodl-like SST cells)
+Pdyn,0,,,,,NOT IN PANEL — receptor-map dataset; suggested proxy: Oprk1 (Kappa-opioid receptor — primary target of Pdyn)
