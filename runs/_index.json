@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-04 04:22:24",
+    "folder": "2026-06-04_042224_c353d49346cf",
+    "mode": "research",
+    "request_short": "[bench:research-gouwens-patchseq-sst-mtype-mapping] Using the Gouwens 2020 Patch-Seq data\u2026",
+    "n_files": 22,
+    "bytes": 11099
+  },
+  {
     "when": "2026-06-04 04:19:32",
     "folder": "2026-06-04_041932_60ec242e0ff5",
     "mode": "research",
