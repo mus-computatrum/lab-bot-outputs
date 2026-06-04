@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-04_045212_79a2487bf55e`](runs/2026-06-04_045212_79a2487bf55e/)** — research — 2026-06-04 04:52:12 UTC — [bench:research-v1dd-connectivity-top-cells] Using the v1dd connectivity extension at /da…
+**[`2026-06-04_045235_1ce83531a693`](runs/2026-06-04_045235_1ce83531a693/)** — research — 2026-06-04 04:52:35 UTC — [bench:research-yao-isocortex-sst-supertypes] Using Yao 2023 WMB-10X (Isocortex subset) a…
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-04 04:52:35 | [`2026-06-04_045235_1ce83531a693`](runs/2026-06-04_045235_1ce83531a693/) | research | [bench:research-yao-isocortex-sst-supertypes] Using Yao 2023 WMB-10X (Isocortex subset) a… |
 | 2026-06-04 04:52:12 | [`2026-06-04_045212_79a2487bf55e`](runs/2026-06-04_045212_79a2487bf55e/) | research | [bench:research-v1dd-connectivity-top-cells] Using the v1dd connectivity extension at /da… |
 | 2026-06-04 04:22:24 | [`2026-06-04_042224_c353d49346cf`](runs/2026-06-04_042224_c353d49346cf/) | research | [bench:research-gouwens-patchseq-sst-mtype-mapping] Using the Gouwens 2020 Patch-Seq data… |
 | 2026-06-04 04:19:32 | [`2026-06-04_041932_60ec242e0ff5`](runs/2026-06-04_041932_60ec242e0ff5/) | research | [bench:research-bugeon-state-modulation] Using the Bugeon 2022 dataset at /data/bugeon202… |
