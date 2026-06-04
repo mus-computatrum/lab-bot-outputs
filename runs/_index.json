@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-04 14:33:56",
+    "folder": "2026-06-04_143356_baf0fd8091d4",
+    "mode": "research",
+    "request_short": "[bench:research-vizgen-spatial-marker-genes] Using Vizgen MERFISH Slice 3 Replicate 1 at \u2026",
+    "n_files": 10,
+    "bytes": 865756
+  },
+  {
     "when": "2026-06-04 14:23:47",
     "folder": "2026-06-04_142347_a202b9843468",
     "mode": "research",
