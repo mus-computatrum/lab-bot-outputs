@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-04 04:59:05",
+    "folder": "2026-06-04_045905_a537f0f3fe15",
+    "mode": "research",
+    "request_short": "[bench:research-abo-v1-sst-osi] Using the Allen Brain Observatory (Visual Coding 2P) cach\u2026",
+    "n_files": 30,
+    "bytes": 125086
+  },
+  {
     "when": "2026-06-04 04:52:35",
     "folder": "2026-06-04_045235_1ce83531a693",
     "mode": "research",

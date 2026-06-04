@@ -1,0 +1,5 @@
+# Check NaN cells and OSI > 1 (can occur when Rorth < 0)
+print("NaN cells:", full_df[full_df.osi.isna()])
+print("\nOSI > 1.0:", full_df[full_df.osi > 1.0])
+print("\nOSI < 0:", full_df[full_df.osi < 0])
+print(f"\nTotal valid OSIs: {full_df.osi.notna().sum()}")

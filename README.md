@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-04_045235_1ce83531a693`](runs/2026-06-04_045235_1ce83531a693/)** — research — 2026-06-04 04:52:35 UTC — [bench:research-yao-isocortex-sst-supertypes] Using Yao 2023 WMB-10X (Isocortex subset) a…
+**[`2026-06-04_045905_a537f0f3fe15`](runs/2026-06-04_045905_a537f0f3fe15/)** — research — 2026-06-04 04:59:05 UTC — [bench:research-abo-v1-sst-osi] Using the Allen Brain Observatory (Visual Coding 2P) cach…
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-04 04:59:05 | [`2026-06-04_045905_a537f0f3fe15`](runs/2026-06-04_045905_a537f0f3fe15/) | research | [bench:research-abo-v1-sst-osi] Using the Allen Brain Observatory (Visual Coding 2P) cach… |
 | 2026-06-04 04:52:35 | [`2026-06-04_045235_1ce83531a693`](runs/2026-06-04_045235_1ce83531a693/) | research | [bench:research-yao-isocortex-sst-supertypes] Using Yao 2023 WMB-10X (Isocortex subset) a… |
 | 2026-06-04 04:52:12 | [`2026-06-04_045212_79a2487bf55e`](runs/2026-06-04_045212_79a2487bf55e/) | research | [bench:research-v1dd-connectivity-top-cells] Using the v1dd connectivity extension at /da… |
 | 2026-06-04 04:22:24 | [`2026-06-04_042224_c353d49346cf`](runs/2026-06-04_042224_c353d49346cf/) | research | [bench:research-gouwens-patchseq-sst-mtype-mapping] Using the Gouwens 2020 Patch-Seq data… |
