@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-04_042224_c353d49346cf`](runs/2026-06-04_042224_c353d49346cf/)** — research — 2026-06-04 04:22:24 UTC — [bench:research-gouwens-patchseq-sst-mtype-mapping] Using the Gouwens 2020 Patch-Seq data…
+**[`2026-06-04_045212_79a2487bf55e`](runs/2026-06-04_045212_79a2487bf55e/)** — research — 2026-06-04 04:52:12 UTC — [bench:research-v1dd-connectivity-top-cells] Using the v1dd connectivity extension at /da…
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-04 04:52:12 | [`2026-06-04_045212_79a2487bf55e`](runs/2026-06-04_045212_79a2487bf55e/) | research | [bench:research-v1dd-connectivity-top-cells] Using the v1dd connectivity extension at /da… |
 | 2026-06-04 04:22:24 | [`2026-06-04_042224_c353d49346cf`](runs/2026-06-04_042224_c353d49346cf/) | research | [bench:research-gouwens-patchseq-sst-mtype-mapping] Using the Gouwens 2020 Patch-Seq data… |
 | 2026-06-04 04:19:32 | [`2026-06-04_041932_60ec242e0ff5`](runs/2026-06-04_041932_60ec242e0ff5/) | research | [bench:research-bugeon-state-modulation] Using the Bugeon 2022 dataset at /data/bugeon202… |
 | 2026-06-03 18:05:21 | [`2026-06-03_180521_843bfb5e610e`](runs/2026-06-03_180521_843bfb5e610e/) | search-lit | [bench:searchlit-easy-sst-v1-papers] Find 3-5 papers from 2023 or later on SST (somatosta… |

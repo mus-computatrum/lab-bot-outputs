@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-04 04:52:12",
+    "folder": "2026-06-04_045212_79a2487bf55e",
+    "mode": "research",
+    "request_short": "[bench:research-v1dd-connectivity-top-cells] Using the v1dd connectivity extension at /da\u2026",
+    "n_files": 12,
+    "bytes": 93477
+  },
+  {
     "when": "2026-06-04 04:22:24",
     "folder": "2026-06-04_042224_c353d49346cf",
     "mode": "research",
