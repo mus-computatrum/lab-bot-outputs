@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-05_120833_99e6392c9394`](runs/2026-06-05_120833_99e6392c9394/)** — research — 2026-06-05 12:08:33 UTC — [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' …
+**[`2026-06-05_134305_cfd73968aad1`](runs/2026-06-05_134305_cfd73968aad1/)** — research — 2026-06-05 13:43:05 UTC — [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' …
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-05 13:43:05 | [`2026-06-05_134305_cfd73968aad1`](runs/2026-06-05_134305_cfd73968aad1/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
 | 2026-06-05 12:08:33 | [`2026-06-05_120833_99e6392c9394`](runs/2026-06-05_120833_99e6392c9394/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
 | 2026-06-05 12:05:21 | [`2026-06-05_120521_41ad591ec0de`](runs/2026-06-05_120521_41ad591ec0de/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
 | 2026-06-05 12:02:05 | [`2026-06-05_120205_c22aeee6cf41`](runs/2026-06-05_120205_c22aeee6cf41/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
