@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-05 03:56:42",
+    "folder": "2026-06-05_035642_873a40e0aebb",
+    "mode": "research",
+    "request_short": "[bench:research-wide-subagent-marker-fanout] Find robust marker genes for FOUR Sst sub-cl\u2026",
+    "n_files": 246,
+    "bytes": 144729
+  },
+  {
     "when": "2026-06-05 03:29:58",
     "folder": "2026-06-05_032958_88c8356f6438",
     "mode": "research",

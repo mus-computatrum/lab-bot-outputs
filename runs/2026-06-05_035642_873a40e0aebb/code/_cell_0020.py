@@ -1,0 +1,1 @@
+import subprocess; print(subprocess.check_output(['bash','-lc','echo "ping"\n']).decode('utf-8','replace'))

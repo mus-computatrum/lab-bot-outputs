@@ -1,0 +1,1 @@
+import sys; print("alive:", sys.version[:10])
