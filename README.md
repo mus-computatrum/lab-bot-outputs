@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-05_031526_d977a287c62e`](runs/2026-06-05_031526_d977a287c62e/)** — research — 2026-06-05 03:15:26 UTC — [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' …
+**[`2026-06-05_032803_606f45476928`](runs/2026-06-05_032803_606f45476928/)** — research — 2026-06-05 03:28:03 UTC — [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' …
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-05 03:28:03 | [`2026-06-05_032803_606f45476928`](runs/2026-06-05_032803_606f45476928/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
 | 2026-06-05 03:15:26 | [`2026-06-05_031526_d977a287c62e`](runs/2026-06-05_031526_d977a287c62e/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
 | 2026-06-05 03:13:51 | [`2026-06-05_031351_28f75704fbaa`](runs/2026-06-05_031351_28f75704fbaa/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
 | 2026-06-04 15:33:41 | [`2026-06-04_153341_1b2b6f1ef98a`](runs/2026-06-04_153341_1b2b6f1ef98a/) | research | [bench:research-yao-isocortex-sst-supertypes] Using Yao 2023 WMB-10X (Isocortex subset) a… |
