@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-05_120205_c22aeee6cf41`](runs/2026-06-05_120205_c22aeee6cf41/)** — research — 2026-06-05 12:02:05 UTC — [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' …
+**[`2026-06-05_120521_41ad591ec0de`](runs/2026-06-05_120521_41ad591ec0de/)** — research — 2026-06-05 12:05:21 UTC — [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' …
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-05 12:05:21 | [`2026-06-05_120521_41ad591ec0de`](runs/2026-06-05_120521_41ad591ec0de/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
 | 2026-06-05 12:02:05 | [`2026-06-05_120205_c22aeee6cf41`](runs/2026-06-05_120205_c22aeee6cf41/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
 | 2026-06-05 03:56:42 | [`2026-06-05_035642_873a40e0aebb`](runs/2026-06-05_035642_873a40e0aebb/) | research | [bench:research-wide-subagent-marker-fanout] Find robust marker genes for FOUR Sst sub-cl… |
 | 2026-06-05 03:29:58 | [`2026-06-05_032958_88c8356f6438`](runs/2026-06-05_032958_88c8356f6438/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
