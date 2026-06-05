@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-04_153341_1b2b6f1ef98a`](runs/2026-06-04_153341_1b2b6f1ef98a/)** — research — 2026-06-04 15:33:41 UTC — [bench:research-yao-isocortex-sst-supertypes] Using Yao 2023 WMB-10X (Isocortex subset) a…
+**[`2026-06-05_031351_28f75704fbaa`](runs/2026-06-05_031351_28f75704fbaa/)** — research — 2026-06-05 03:13:51 UTC — [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' …
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-05 03:13:51 | [`2026-06-05_031351_28f75704fbaa`](runs/2026-06-05_031351_28f75704fbaa/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
 | 2026-06-04 15:33:41 | [`2026-06-04_153341_1b2b6f1ef98a`](runs/2026-06-04_153341_1b2b6f1ef98a/) | research | [bench:research-yao-isocortex-sst-supertypes] Using Yao 2023 WMB-10X (Isocortex subset) a… |
 | 2026-06-04 14:58:19 | [`2026-06-04_145819_9141f09a2aa9`](runs/2026-06-04_145819_9141f09a2aa9/) | research | [bench:research-yao-isocortex-sst-supertypes] Using Yao 2023 WMB-10X (Isocortex subset) a… |
 | 2026-06-04 14:33:56 | [`2026-06-04_143356_baf0fd8091d4`](runs/2026-06-04_143356_baf0fd8091d4/) | research | [bench:research-vizgen-spatial-marker-genes] Using Vizgen MERFISH Slice 3 Replicate 1 at … |
