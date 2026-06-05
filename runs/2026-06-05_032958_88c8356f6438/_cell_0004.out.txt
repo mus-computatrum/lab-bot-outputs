@@ -1,0 +1,6 @@
+exit_code: 0
+--- stdout ---
+Saved /work/celltype_counts_bar.png
+
+--- stderr ---
+

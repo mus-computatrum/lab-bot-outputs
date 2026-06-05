@@ -1,0 +1,16 @@
+exit_code: 0
+--- stdout ---
+/data/tasic2018-v1/v1_neurons_proc.h5ad
+/data/tasic2018-v1/v1_upper_proc.h5ad
+/data/tasic2018-v1/v1_upper_norm.h5ad
+/data/tasic2018-v1/GSE115746_complete_metadata_28706-cells.csv.gz
+/data/tasic2018-v1/tasic2018_full_counts.h5ad
+/data/tasic2018-v1/v1_all_norm.h5ad
+/data/tasic2018-v1/GSE115746_cells_exon_counts.csv.gz
+/data/tasic2018-v1/v1_all_proc.h5ad
+
+
+--- stderr ---
+mkdir -p failed for path /home/sandbox/.config/matplotlib: [Errno 13] Permission denied: '/home/sandbox/.config/matplotlib'
+Matplotlib created a temporary cache directory at /tmp/matplotlib-vhl4disc because there was an issue with the default path (/home/sandbox/.config/matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+

@@ -1,0 +1,26 @@
+exit_code: 0
+--- stdout ---
+celltype_counts.csv   : 2,349 bytes (118 rows)
+celltype_counts_bar.png: 177,379 bytes
+
+CSV columns: ['cell_type', 'n_cells']
+First 5 rows:
+                 cell_type  n_cells
+0         L4 IT VISp Rspo1     1350
+1  L6 IT VISp Penk Col27a1     1031
+2       L2/3 IT VISp Agmat      658
+3               Lamp5 Lsp1      425
+4         L5 IT VISp Batf3      390
+Last 5 rows:
+                cell_type  n_cells
+113       L6 IT ALM Tgfb1        1
+114         L5 IT ALM Npw        1
+115  L5 IT ALM Cpa6 Gpr88        1
+116       L2/3 IT ALM Sla        1
+117        L6 CT ALM Cpa6        1
+
+Min n_cells: 1, Max: 1350
+Sum: 13586
+
+--- stderr ---
+
