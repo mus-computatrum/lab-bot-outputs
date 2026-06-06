@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-06_001714_f7c12964511c`](runs/2026-06-06_001714_f7c12964511c/)** — research — 2026-06-06 00:17:14 UTC — [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we…
+**[`2026-06-06_001755_8cb344cbaec3`](runs/2026-06-06_001755_8cb344cbaec3/)** — search-lit — 2026-06-06 00:17:55 UTC — [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202…
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-06 00:17:55 | [`2026-06-06_001755_8cb344cbaec3`](runs/2026-06-06_001755_8cb344cbaec3/) | search-lit | [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202… |
 | 2026-06-06 00:17:14 | [`2026-06-06_001714_f7c12964511c`](runs/2026-06-06_001714_f7c12964511c/) | research | [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we… |
 | 2026-06-06 00:10:24 | [`2026-06-06_001024_77ba85ba3e7f`](runs/2026-06-06_001024_77ba85ba3e7f/) | search-lit | [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202… |
 | 2026-06-06 00:08:38 | [`2026-06-06_000838_56eedcf62d3b`](runs/2026-06-06_000838_56eedcf62d3b/) | research | [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we… |
