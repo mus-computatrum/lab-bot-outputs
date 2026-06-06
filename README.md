@@ -11,9 +11,11 @@ The bot is at <https://github.com/imbush/discord-claude-bot>.
 
 ## Latest run
 
-_(none yet — repo was reset on 2026-06-05)_
+**[`2026-06-06_133328_da427481616d`](runs/2026-06-06_133328_da427481616d/)** — search-lit — 2026-06-06 13:33:28 UTC — [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202…
+
 
 ## Recent runs
 
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-06 13:33:28 | [`2026-06-06_133328_da427481616d`](runs/2026-06-06_133328_da427481616d/) | search-lit | [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202… |
