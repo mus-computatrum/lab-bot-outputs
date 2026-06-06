@@ -11,12 +11,13 @@ datasets used, and what was produced.
 
 ## Latest run
 
-**[`2026-06-05_140827_6aaff3730984`](runs/2026-06-05_140827_6aaff3730984/)** — research — 2026-06-05 14:08:27 UTC — Investigate electrical (gap-junction) coupling between cells in the MICrONS mouse visual …
+**[`2026-06-06_000816_7ea01e64b012`](runs/2026-06-06_000816_7ea01e64b012/)** — research — 2026-06-06 00:08:16 UTC — [bench:research-internet-cave-table-list] From inside the sandbox, use caveclient.CAVEcli…
 
 
 ## Recent runs
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-06 00:08:16 | [`2026-06-06_000816_7ea01e64b012`](runs/2026-06-06_000816_7ea01e64b012/) | research | [bench:research-internet-cave-table-list] From inside the sandbox, use caveclient.CAVEcli… |
 | 2026-06-05 14:08:27 | [`2026-06-05_140827_6aaff3730984`](runs/2026-06-05_140827_6aaff3730984/) | research | Investigate electrical (gap-junction) coupling between cells in the MICrONS mouse visual … |
 | 2026-06-05 13:43:05 | [`2026-06-05_134305_cfd73968aad1`](runs/2026-06-05_134305_cfd73968aad1/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
 | 2026-06-05 12:08:33 | [`2026-06-05_120833_99e6392c9394`](runs/2026-06-05_120833_99e6392c9394/) | research | [bench:research-easy-tasic-celltype-counts] Count cells per cell type (use the 'cluster' … |
