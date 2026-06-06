@@ -1,5 +1,0 @@
-# Verify all cells ARE from VISp (ALM in cluster names is taxonomy label, not origin)
-print("dissected_region breakdown:")
-print(adata.obs["dissected_region"].value_counts())
-print("\nNote: 'ALM' in cluster NAMES is the taxonomy label—these cells were still")
-print("dissected from VISp but transcriptomically match ALM-dominant clusters.")

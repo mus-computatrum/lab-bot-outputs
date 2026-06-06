@@ -1,1 +1,0 @@
-!ls -lh /data/gouwens2020-patchseq/transcriptome/20200513_Mouse_PatchSeq_Release_count.v2/20200513_Mouse_PatchSeq_Release_count.v2.csv

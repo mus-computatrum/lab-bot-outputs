@@ -1,1 +1,0 @@
-!ls -lh /data/gouwens2020-patchseq/transcriptome/
