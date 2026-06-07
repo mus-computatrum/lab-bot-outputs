@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-07 13:22:27",
+    "folder": "2026-06-07_132227_e14099192930",
+    "mode": "search-lit",
+    "request_short": "[bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202\u2026",
+    "n_files": 1,
+    "bytes": 4333
+  },
+  {
     "when": "2026-06-06 13:39:20",
     "folder": "2026-06-06_133920_ca910cddf618",
     "mode": "research",
