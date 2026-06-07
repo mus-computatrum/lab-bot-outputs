@@ -11,13 +11,14 @@ The bot is at <https://github.com/imbush/discord-claude-bot>.
 
 ## Latest run
 
-**[`2026-06-07_141044_884154436278`](runs/2026-06-07_141044_884154436278/)** — search-lit — 2026-06-07 14:10:44 UTC — [bench:searchlit-internet-general-recent-2025] Name 2 papers from 2025 about somatostatin…
+**[`2026-06-07_141115_7d2f9d2ff12c`](runs/2026-06-07_141115_7d2f9d2ff12c/)** — research — 2026-06-07 14:11:15 UTC — [bench:research-internet-general-bugeon-hierarchy] In Bugeon et al. 2022 (Nature, doi:10.…
 
 
 ## Recent runs
 
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-07 14:11:15 | [`2026-06-07_141115_7d2f9d2ff12c`](runs/2026-06-07_141115_7d2f9d2ff12c/) | research | [bench:research-internet-general-bugeon-hierarchy] In Bugeon et al. 2022 (Nature, doi:10.… |
 | 2026-06-07 14:10:44 | [`2026-06-07_141044_884154436278`](runs/2026-06-07_141044_884154436278/) | search-lit | [bench:searchlit-internet-general-recent-2025] Name 2 papers from 2025 about somatostatin… |
 | 2026-06-07 14:07:52 | [`2026-06-07_140752_a18d82c84fc2`](runs/2026-06-07_140752_a18d82c84fc2/) | research | [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we… |
 | 2026-06-07 14:07:16 | [`2026-06-07_140716_746c882a7ade`](runs/2026-06-07_140716_746c882a7ade/) | research | [bench:research-internet-general-bugeon-hierarchy] In Bugeon et al. 2022 (Nature, doi:10.… |
