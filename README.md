@@ -11,13 +11,14 @@ The bot is at <https://github.com/imbush/discord-claude-bot>.
 
 ## Latest run
 
-**[`2026-06-07_132323_81ff10dda3da`](runs/2026-06-07_132323_81ff10dda3da/)** — research — 2026-06-07 13:23:23 UTC — [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we…
+**[`2026-06-07_133517_6bab1a9dbf1a`](runs/2026-06-07_133517_6bab1a9dbf1a/)** — search-lit — 2026-06-07 13:35:17 UTC — [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202…
 
 
 ## Recent runs
 
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-07 13:35:17 | [`2026-06-07_133517_6bab1a9dbf1a`](runs/2026-06-07_133517_6bab1a9dbf1a/) | search-lit | [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202… |
 | 2026-06-07 13:23:23 | [`2026-06-07_132323_81ff10dda3da`](runs/2026-06-07_132323_81ff10dda3da/) | research | [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we… |
 | 2026-06-07 13:22:27 | [`2026-06-07_132227_e14099192930`](runs/2026-06-07_132227_e14099192930/) | search-lit | [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202… |
 | 2026-06-06 13:39:20 | [`2026-06-06_133920_ca910cddf618`](runs/2026-06-06_133920_ca910cddf618/) | research | [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we… |
