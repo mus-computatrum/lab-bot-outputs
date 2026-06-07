@@ -11,13 +11,14 @@ The bot is at <https://github.com/imbush/discord-claude-bot>.
 
 ## Latest run
 
-**[`2026-06-07_141147_33b8b918b990`](runs/2026-06-07_141147_33b8b918b990/)** — research — 2026-06-07 14:11:47 UTC — [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we…
+**[`2026-06-07_141539_50b32df4df27`](runs/2026-06-07_141539_50b32df4df27/)** — search-lit — 2026-06-07 14:15:39 UTC — [bench:searchlit-internet-general-recent-2025] Name 2 papers from 2025 about somatostatin…
 
 
 ## Recent runs
 
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-07 14:15:39 | [`2026-06-07_141539_50b32df4df27`](runs/2026-06-07_141539_50b32df4df27/) | search-lit | [bench:searchlit-internet-general-recent-2025] Name 2 papers from 2025 about somatostatin… |
 | 2026-06-07 14:11:47 | [`2026-06-07_141147_33b8b918b990`](runs/2026-06-07_141147_33b8b918b990/) | research | [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we… |
 | 2026-06-07 14:11:22 | [`2026-06-07_141122_7b5c6f9100e1`](runs/2026-06-07_141122_7b5c6f9100e1/) | search-lit | [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202… |
 | 2026-06-07 14:11:15 | [`2026-06-07_141115_7d2f9d2ff12c`](runs/2026-06-07_141115_7d2f9d2ff12c/) | research | [bench:research-internet-general-bugeon-hierarchy] In Bugeon et al. 2022 (Nature, doi:10.… |

@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-07 14:15:39",
+    "folder": "2026-06-07_141539_50b32df4df27",
+    "mode": "search-lit",
+    "request_short": "[bench:searchlit-internet-general-recent-2025] Name 2 papers from 2025 about somatostatin\u2026",
+    "n_files": 1,
+    "bytes": 1873
+  },
+  {
     "when": "2026-06-07 14:11:47",
     "folder": "2026-06-07_141147_33b8b918b990",
     "mode": "research",
