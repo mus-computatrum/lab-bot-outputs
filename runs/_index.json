@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-07 14:16:06",
+    "folder": "2026-06-07_141606_2626e223796e",
+    "mode": "research",
+    "request_short": "[bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we\u2026",
+    "n_files": 6,
+    "bytes": 41738
+  },
+  {
     "when": "2026-06-07 14:15:39",
     "folder": "2026-06-07_141539_50b32df4df27",
     "mode": "search-lit",
