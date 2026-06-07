@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-07 14:16:25",
+    "folder": "2026-06-07_141625_8b279134bd00",
+    "mode": "research",
+    "request_short": "[bench:research-internet-general-bugeon-hierarchy] In Bugeon et al. 2022 (Nature, doi:10.\u2026",
+    "n_files": 6,
+    "bytes": 37160
+  },
+  {
     "when": "2026-06-07 14:16:14",
     "folder": "2026-06-07_141614_27d9902d8270",
     "mode": "search-lit",
