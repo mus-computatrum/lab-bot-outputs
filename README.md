@@ -11,18 +11,11 @@ The bot is at <https://github.com/imbush/discord-claude-bot>.
 
 ## Latest run
 
-**[`2026-06-07_133535_ae754a144c48`](runs/2026-06-07_133535_ae754a144c48/)** — research — 2026-06-07 13:35:35 UTC — [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we…
+**[`2026-06-07_134504_64bafcaf8716`](runs/2026-06-07_134504_64bafcaf8716/)** — search-lit — 2026-06-07 13:45:04 UTC — [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202…
 
 
 ## Recent runs
 
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
-| 2026-06-07 13:35:35 | [`2026-06-07_133535_ae754a144c48`](runs/2026-06-07_133535_ae754a144c48/) | research | [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we… |
-| 2026-06-07 13:35:17 | [`2026-06-07_133517_6bab1a9dbf1a`](runs/2026-06-07_133517_6bab1a9dbf1a/) | search-lit | [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202… |
-| 2026-06-07 13:23:23 | [`2026-06-07_132323_81ff10dda3da`](runs/2026-06-07_132323_81ff10dda3da/) | research | [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we… |
-| 2026-06-07 13:22:27 | [`2026-06-07_132227_e14099192930`](runs/2026-06-07_132227_e14099192930/) | search-lit | [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202… |
-| 2026-06-06 13:39:20 | [`2026-06-06_133920_ca910cddf618`](runs/2026-06-06_133920_ca910cddf618/) | research | [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we… |
-| 2026-06-06 13:38:46 | [`2026-06-06_133846_2655d560b9bd`](runs/2026-06-06_133846_2655d560b9bd/) | search-lit | [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202… |
-| 2026-06-06 13:34:55 | [`2026-06-06_133455_a9fbe494b78f`](runs/2026-06-06_133455_a9fbe494b78f/) | research | [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we… |
-| 2026-06-06 13:33:28 | [`2026-06-06_133328_da427481616d`](runs/2026-06-06_133328_da427481616d/) | search-lit | [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202… |
+| 2026-06-07 13:45:04 | [`2026-06-07_134504_64bafcaf8716`](runs/2026-06-07_134504_64bafcaf8716/) | search-lit | [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202… |
