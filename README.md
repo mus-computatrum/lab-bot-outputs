@@ -11,13 +11,14 @@ The bot is at <https://github.com/imbush/discord-claude-bot>.
 
 ## Latest run
 
-**[`2026-06-07_141625_8b279134bd00`](runs/2026-06-07_141625_8b279134bd00/)** — research — 2026-06-07 14:16:25 UTC — [bench:research-internet-general-bugeon-hierarchy] In Bugeon et al. 2022 (Nature, doi:10.…
+**[`2026-06-08_151121_e650456dc64c`](runs/2026-06-08_151121_e650456dc64c/)** — search-lit — 2026-06-08 15:11:21 UTC — Papers on optimizing MERFISH protocol
 
 
 ## Recent runs
 
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-08 15:11:21 | [`2026-06-08_151121_e650456dc64c`](runs/2026-06-08_151121_e650456dc64c/) | search-lit | Papers on optimizing MERFISH protocol |
 | 2026-06-07 14:16:25 | [`2026-06-07_141625_8b279134bd00`](runs/2026-06-07_141625_8b279134bd00/) | research | [bench:research-internet-general-bugeon-hierarchy] In Bugeon et al. 2022 (Nature, doi:10.… |
 | 2026-06-07 14:16:14 | [`2026-06-07_141614_27d9902d8270`](runs/2026-06-07_141614_27d9902d8270/) | search-lit | [bench:searchlit-internet-recent-sst-papers] Find 2 peer-reviewed papers published in 202… |
 | 2026-06-07 14:16:06 | [`2026-06-07_141606_2626e223796e`](runs/2026-06-07_141606_2626e223796e/) | research | [bench:research-internet-fetch-method-from-paper] Using ONLY the live web (web_fetch / we… |
