@@ -11,13 +11,14 @@ The bot is at <https://github.com/imbush/discord-claude-bot>.
 
 ## Latest run
 
-**[`2026-06-08_151554_6e21038dc08c`](runs/2026-06-08_151554_6e21038dc08c/)** — search-lit — 2026-06-08 15:15:54 UTC — [bench:searchlit-internet-general-recent-2025] Name 2 papers from 2025 about somatostatin…
+**[`2026-06-08_173501_97657c08b756`](runs/2026-06-08_173501_97657c08b756/)** — research — 2026-06-08 17:35:01 UTC — Search the literature to find primate cortical multi-omics and spatial transcriptomics da…
 
 
 ## Recent runs
 
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-08 17:35:01 | [`2026-06-08_173501_97657c08b756`](runs/2026-06-08_173501_97657c08b756/) | research | Search the literature to find primate cortical multi-omics and spatial transcriptomics da… |
 | 2026-06-08 15:15:54 | [`2026-06-08_151554_6e21038dc08c`](runs/2026-06-08_151554_6e21038dc08c/) | search-lit | [bench:searchlit-internet-general-recent-2025] Name 2 papers from 2025 about somatostatin… |
 | 2026-06-08 15:11:21 | [`2026-06-08_151121_e650456dc64c`](runs/2026-06-08_151121_e650456dc64c/) | search-lit | Papers on optimizing MERFISH protocol |
 | 2026-06-07 14:16:25 | [`2026-06-07_141625_8b279134bd00`](runs/2026-06-07_141625_8b279134bd00/) | research | [bench:research-internet-general-bugeon-hierarchy] In Bugeon et al. 2022 (Nature, doi:10.… |
