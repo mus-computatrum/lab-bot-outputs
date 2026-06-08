@@ -11,13 +11,14 @@ The bot is at <https://github.com/imbush/discord-claude-bot>.
 
 ## Latest run
 
-**[`2026-06-08_192901_2e4ab169d166`](runs/2026-06-08_192901_2e4ab169d166/)** — download — 2026-06-08 19:29:01 UTC — Explore why hrvatin datasets are not yet visible to user from datasets command
+**[`2026-06-08_201654_954161fb50e6`](runs/2026-06-08_201654_954161fb50e6/)** — download — 2026-06-08 20:16:54 UTC — Explore why hrvatin and green datasets are not visible to bot users via datasets command.
 
 
 ## Recent runs
 
 | When (UTC) | Folder | Mode | Request |
 |---|---|---|---|
+| 2026-06-08 20:16:54 | [`2026-06-08_201654_954161fb50e6`](runs/2026-06-08_201654_954161fb50e6/) | download | Explore why hrvatin and green datasets are not visible to bot users via datasets command. |
 | 2026-06-08 19:29:01 | [`2026-06-08_192901_2e4ab169d166`](runs/2026-06-08_192901_2e4ab169d166/) | download | Explore why hrvatin datasets are not yet visible to user from datasets command |
 | 2026-06-08 18:50:25 | [`2026-06-08_185025_28aee20060a4`](runs/2026-06-08_185025_28aee20060a4/) | download | Finish downloading and configuring GSE232200 and GSE136802. |
 | 2026-06-08 18:02:04 | [`2026-06-08_180204_8804b47aea7d`](runs/2026-06-08_180204_8804b47aea7d/) | research | Search recent literature to find the biggest cortical single cell atac seq datasets in an… |
