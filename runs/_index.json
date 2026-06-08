@@ -1,5 +1,13 @@
 [
   {
+    "when": "2026-06-08 18:50:25",
+    "folder": "2026-06-08_185025_28aee20060a4",
+    "mode": "download",
+    "request_short": "Finish downloading and configuring GSE232200 and GSE136802.",
+    "n_files": 27,
+    "bytes": 134057
+  },
+  {
     "when": "2026-06-08 18:02:04",
     "folder": "2026-06-08_180204_8804b47aea7d",
     "mode": "research",
